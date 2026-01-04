@@ -41,8 +41,9 @@ No intenta ser un framework ni una librería pesada, sino una **base sólida** q
     { label: "Contacto", href: "/contacto" }
   ]}
 />
+```
 
 Si quieres colaborar o reportar un error, puedes hacerlo en el repositorio de GitHub.
-Aademás que si quieres colaborarme con este proyecto, puedes hacerlo en el repositorio de GitHub o apoyarme en mi gumroad: https://rodhalsey.gumroad.com/l/navbar
+Si quieres colaborarme con este proyecto, puedes hacerlo en el presente repositorio o apoyarme en mi gumroad: https://rodhalsey.gumroad.com/l/navbar
 
-¡Gracias!, no te olvides de darme una estrella ⭐️ en GitHub!
+¡Gracias!, no te olvides de darme una estrella ⭐️ en GitHub, si te gustó!
